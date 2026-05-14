@@ -13,3 +13,9 @@
 
 - Asgmt 2: Text Preprocessing [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahnchive/NLP-for-SocialScience/blob/main/asgmt2_text_preprocessing.ipynb)
 
+
+
+- Ch 4: Text Vectorization [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahnchive/NLP-for-SocialScience/blob/main/text_vectorization.ipynb)
+
+- Asgmt 3: Text Preprocessing [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahnchive/NLP-for-SocialScience/blob/main/asgmt3_text_vectorization.ipynb)
+
