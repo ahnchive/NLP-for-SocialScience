@@ -19,3 +19,11 @@
 
 - Asgmt 3: Text Vectorization [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahnchive/NLP-for-SocialScience/blob/main/asgmt3_text_vectorization.ipynb)
 
+
+
+- Ch 5: Text Clustering [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahnchive/NLP-for-SocialScience/blob/main/text_clustering.ipynb)
+
+- Ch 6: Text Classification [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahnchive/NLP-for-SocialScience/blob/main/text_classification.ipynb)
+
+- Asgmt 4: Text Vectorization [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahnchive/NLP-for-SocialScience/blob/main/asgmt4_text_clustering_and_classification.ipynb)
+
