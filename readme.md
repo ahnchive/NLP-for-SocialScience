@@ -27,3 +27,6 @@
 
 - Asgmt 4: Text Clustering & Classification [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahnchive/NLP-for-SocialScience/blob/main/asgmt4_text_clustering_and_classification.ipynb)
 
+
+
+- Ch 7: NLP Application 1 - Sentiment Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahnchive/NLP-for-SocialScience/blob/main/nlp_application_1.ipynb)
