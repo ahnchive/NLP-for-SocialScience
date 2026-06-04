@@ -30,3 +30,5 @@
 
 
 - Ch 7: NLP Application 1 - Sentiment Analysis [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahnchive/NLP-for-SocialScience/blob/main/nlp_application_1.ipynb)
+
+- Ch 8: NLP Application 2 - From Word Vectors to LLMs [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/ahnchive/NLP-for-SocialScience/blob/main/nlp_application_2.ipynb)
